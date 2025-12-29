@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Hyunwook"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**Philippians** 4:13"
   location         : "South Korea"
   email            : "hyunwook.nam111@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "hyunwook.nam111@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
