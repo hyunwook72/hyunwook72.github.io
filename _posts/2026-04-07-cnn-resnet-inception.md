@@ -5,4 +5,4 @@ categories:
   - AI-Portfolio
 ---
 
-<script src="https://colab.research.google.com/gist/hyunwook72/a1d45d72a26f9cbcc3022525afb8eb52/portfolio2_cnn.ipynb"></script>
+<script src="https://gist.github.com/hyunwook72/a1d45d72a26f9cbcc3022525afb8eb52.js"></script>
