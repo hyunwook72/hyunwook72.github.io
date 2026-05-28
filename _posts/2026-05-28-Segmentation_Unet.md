@@ -5,4 +5,4 @@ categories:
   - AI-Portfolio
 ---
 
-<script src="https://gist.github.com/hyunwook72/13c9a0f29c364c26db60b01815681e40.js"></script>
+<script src="https://gist.github.com/hyunwook72/e7dd0810e4d3ac9b597c797facc44dc0.js"></script>
